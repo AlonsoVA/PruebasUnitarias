@@ -1,0 +1,17 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+*.log
+
+# Evidencias, capturas y documentos (no forman parte del código)
+evidencias/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
